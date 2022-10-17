@@ -39,7 +39,6 @@
 - https://www.kaggle.com/devm2024/keras-model-for-beginners-0-210-on-lb-eda-r-d
 - https://www.kaggle.com/devm2024/transfer-learning-with-vgg-16-cnn-aug-lb-0-1712
 - https://www.kaggle.com/submarineering/submarineering-even-better-public-score-until-now
-- https://www.kaggle.com/wvadim/keras-tf-lb-0-18
 
 ### TensorFlow Speech Recognition Challenge (image classification)
 - https://www.kaggle.com/davids1992/speech-representation-and-data-exploration
