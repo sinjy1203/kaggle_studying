@@ -7,7 +7,7 @@
 - tabular data, image data
 - regression, binary classification, multi-class classification, object segmentation
 - feature analysis, feature engineering
-- bagging, boosting, stacking
+- bagging, boosting, stacking, CNN, DNN
 
 
 </br>
