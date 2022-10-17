@@ -29,7 +29,6 @@
 - https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction
 - https://www.kaggle.com/willkoehrsen/introduction-to-manual-feature-engineering
 - https://www.kaggle.com/eliotbarr/stacking-test-sklearn-xgboost-catboost-lightgbm
-- https://www.kaggle.com/jsaguiar/lightgbm-7th-place-solution
 
 ### Costa Rican Household Poverty Level Prediction (tabular data classification)
 - https://www.kaggle.com/willkoehrsen/a-complete-introduction-and-walkthrough
