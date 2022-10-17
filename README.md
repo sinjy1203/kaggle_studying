@@ -3,7 +3,7 @@
 
 </br>
 
-## 2. 기술
+## 1. 기술
 - tabular data, image data
 - regression, binary classification, multi-class classification, object segmentation
 - feature analysis, feature engineering
@@ -12,7 +12,7 @@
 
 </br>
 
-## 필사한 커널 링크
+## 2. 필사한 커널 링크
 ### Titanic: Machine Learning from Disaster (tabular data classification)
 - https://kaggle-kr.tistory.com/m/17?category=868316
 - https://www.kaggle.com/ash316/eda-to-prediction-dietanic
