@@ -5,7 +5,7 @@
 
 ## 2. 기술
 - tabular data, image data
-- regression, binary classification, multi-class classification, object segmentation, label encoding
+- regression, binary classification, multi-class classification, object segmentation
 - feature analysis, feature engineering
 - bagging, boosting, stacking
 
